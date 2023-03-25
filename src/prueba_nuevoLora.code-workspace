@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "receptor_lora",
+			"path": "../../../receptor_lora"
+		},
+		{
+			"name": "Monitor_corriente",
+			"path": "../../monitor_corriente/Monitor_corriente"
+		},
+		{
+			"name": "Neopicxel_prueba",
+			"path": "../../../PlatformIO/Projects/Neopicxel_prueba"
+		},
+		{
+			"name": "NodoLoRa_T",
+			"path": "../../NodoLoRa_T"
+		},
+		{
+			"name": "simon_says",
+			"path": "../../../PlatformIO/Projects/simon_says"
+		},
+		{
+			"name": "Gateway",
+			"path": "../../../PlatformIO/Projects/Gateway"
+		},
+		{
+			"name": "nodoLoRa1",
+			"path": "../../../../../Documents/nodoLoRa1"
+		}
+	],
+	"settings": {}
+}
